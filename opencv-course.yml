@@ -92,6 +92,7 @@ dependencies:
     - pillow==7.1.2
     - pooch==1.1.0
     - pyparsing==2.4.7
+    - pyrealsense2==2.36.0.2038
     - pywavelets==1.1.1
     - requests==2.23.0
     - scikit-image==0.17.1
