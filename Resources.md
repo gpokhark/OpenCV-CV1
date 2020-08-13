@@ -213,6 +213,11 @@
 * https://www.youtube.com/watch?v=MVLuexuikv4
 ## Feature 2 - Blemish Removal
 * https://www.youtube.com/watch?v=wauuG0P4MCY
+* https://docs.opencv.org/2.4/doc/tutorials/core/discrete_fourier_transform/discrete_fourier_transform.html
+* https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html
+* https://docs.opencv.org/3.2.0/d5/d0f/tutorial_py_gradients.html
+* https://docs.opencv.org/3.1.0/d2/d2c/tutorial_sobel_derivatives.html
+* https://docs.opencv.org/3.0-beta/modules/photo/doc/cloning.html
 ## Feature 3 - Chroma Keying
 * https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
 * https://medium.com/fnplus/blue-or-green-screen-effect-with-open-cv-chroma-keying-94d4a6ab2743
