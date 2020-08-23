@@ -222,6 +222,11 @@
 * https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
 * https://medium.com/fnplus/blue-or-green-screen-effect-with-open-cv-chroma-keying-94d4a6ab2743
 * https://pysource.com/2017/06/02/tutorial-remove-background-opencv-3-2-with-python-3/
+* https://www.researchgate.net/publication/220720513_Blue_Screen_Matting%27%27
+* http://gc-films.com/chromakey.html
+* https://pdfs.semanticscholar.org/bf62/cae2be4b4785f4a54ba9d9ef54e0ba61068c.pdf
+* https://www.cvg.ethz.ch/research/green-screen-keying/TOG16-keying.pdf
+* https://www.youtube.com/watch?v=u22QPAp5rx0
 ## Submission
 
 # Week 7 - Geometric Transformations and Image Features
