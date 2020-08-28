@@ -1,0 +1,8 @@
+name: opencv-course
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - notebook
+  - numpy
+prefix: /home/gaurav/anaconda3/envs/opencv-course
