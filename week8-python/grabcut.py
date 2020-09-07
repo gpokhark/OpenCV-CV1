@@ -116,7 +116,7 @@ if __name__ == '__main__':
     else:
         print("No input image given,  so loading default image,  ../../data/images/hillary_clinton.jpg \n")
         print("Correct Usage: python grabcut.py <filename> \n")
-        filename = '../data/images/hillary_clinton.jpg'
+        filename = './data/images/hillary_clinton.jpg'
 
     img = cv2.imread(filename)
     img2 = img.copy()                               # a copy of original image
